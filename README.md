@@ -26,14 +26,17 @@ Suzuki TS50X, but all major engine geometry is user-defined.
 - Gear and vehicle-speed calculator
 - Save / Upload complete projects as JSON
 
-License
+License:
 Gel87 Two-Stroke Tuner is licensed under the GNU General Public License v3.0 (GPL-3.0).
-
 You are free to use, study, modify and redistribute the software under the terms of the GPL-3.0 license.
-
 If you distribute a modified version, the corresponding source code and the same license freedoms must remain available.
-
 See the LICENSE file for the full license terms.
+
+Disclaimer:
+Gel87 is an engineering and tuning aid.
+Calculated values, recommendations and simulations are estimates and do not replace dyno testing, pressure measurement, temperature measurement, detonation monitoring or mechanical inspection.
+Engine modification and tuning can cause engine damage or personal injury if performed incorrectly.
+Use all calculations and recommendations at your own risk.
 
 ## Running Gel87
 
